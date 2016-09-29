@@ -1,0 +1,9 @@
+package com.parents;
+
+public class Human extends CharacterClass {
+
+	protected int health = 0;
+	
+	
+	
+}
