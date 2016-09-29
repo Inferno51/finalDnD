@@ -1,0 +1,9 @@
+package com.parents;
+
+import com.app.Weapons.Weapon;
+
+public class Zombie extends CharacterClass {
+
+	protected int health = 0;
+	
+}

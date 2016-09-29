@@ -1,0 +1,6 @@
+package com.parents;
+
+public class Dwarf {
+
+	protected int health = 0;
+}

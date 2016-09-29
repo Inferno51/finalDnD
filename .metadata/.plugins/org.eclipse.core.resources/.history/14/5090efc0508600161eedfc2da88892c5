@@ -1,0 +1,6 @@
+package com.parents;
+
+public class Dwarf extends CharacterClass {
+
+	protected int health = 0;
+}

@@ -1,0 +1,8 @@
+package com.parents;
+
+import com.app.Weapons.Weapon;
+
+public class Dwarf extends CharacterClass {
+
+	protected int health = 0;
+}

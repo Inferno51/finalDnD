@@ -1,0 +1,7 @@
+package com.parents;
+
+public class Zombie extends CharacterClass {
+
+	protected int health = 0;
+	
+}

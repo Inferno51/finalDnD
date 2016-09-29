@@ -1,0 +1,7 @@
+package com.parents;
+
+public class Zombie {
+
+	protected int health = 0;
+	
+}
