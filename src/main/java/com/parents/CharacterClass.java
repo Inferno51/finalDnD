@@ -9,7 +9,7 @@ public class CharacterClass {
 	protected int magic = 0;
 	protected String name = null;
 	// Added Weapons
-	protected static Weapon weapon = null;
+	protected Weapon weapon = null;
 
 	public CharacterClass() {
 		super();

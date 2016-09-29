@@ -12,9 +12,10 @@ public class ElfJedi extends Elf implements Jedi {
 	public ElfJedi() {
 		super();
 	}
-
-	public ElfJedi(int health, int magic, String name) {
-		super(health, magic, name);
+	
+	// Added weapon
+	public ElfJedi(int health, int magic, String name, Weapon weapon) {
+		super(health, magic, name, weapon);
 	}
 
 	@Override
@@ -33,7 +34,7 @@ public class ElfJedi extends Elf implements Jedi {
 		super.setWeapon(Weapon.LIGHTSABER);
 	}
 
-	
+		
 
 	
 
